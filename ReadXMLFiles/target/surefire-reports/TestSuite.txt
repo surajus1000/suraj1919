@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.601 s <<< FAILURE! - in TestSuite
+testCaseToValidatePrice(readFile.TestCases)  Time elapsed: 0.007 s  <<< FAILURE!
+java.lang.AssertionError: expected [44.95] but found [44]
+	at readFile.TestCases.testCaseToValidatePrice(TestCases.java:58)
+
